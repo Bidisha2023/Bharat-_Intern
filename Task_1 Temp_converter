@@ -11,7 +11,7 @@
     <link
         href="https://fonts.googleapis.com/css2?family=Merriweather&family=Playfair+Display:wght@500&family=Roboto:wght@300&display=swap"
         rel="stylesheet">
-
+        
 </head>
 <style>
     * {
@@ -20,21 +20,21 @@
         font-family: 'Merriweather', serif;
         font-family: 'Playfair Display', serif;
         font-family: 'Roboto', sans-serif;
-        color: rgb(17, 17, 17);
+        color: rgb(0, 0, 0);
 
 
     }
 
     .container {
-        background-color: aquamarine(42, 12, 48);
-        border: 50px solid rgba(11, 236, 199, 0.774);
+        background-color: rgb(42, 12, 48);
+        border: 50px solid rgb(8, 7, 33);
     }
 
     form {
         text-align: center;
         justify-content: center;
         margin-top: 200px;
-        background-color: rgb(32, 233, 233);
+        background-color: rgb(147, 141, 134);
         width: 400px;
         height: 400px;
         position: relative;
@@ -66,7 +66,7 @@
     }
 
     .btn {
-        background-color: rgb(239, 245, 240);
+        background-color: rgb(18, 45, 18);
         margin: 20px;
         padding: 10px;
         font-size: 20px;
