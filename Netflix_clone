@@ -133,7 +133,8 @@
                     <img src="https://assets.nflxext.com/ffe/siteui/acquisition/ourStory/fuji/desktop/device-pile-in.png"
                         alt="Feature image" class="feature_image feature3_image" />
                     <div class="feature_backgroudvideocontainer feature3backgroudvideo_container">
-                        <video autoplay="" loop="" muted="" class="feature_backgroudvideo feature3backgroud_video">
+                        <video autoplay="" loop="" muted=""
+                            class="feature_backgroudvideo feature3backgroud_video">
                             <source
                                 src="https://assets.nflxext.com/ffe/siteui/acquisition/ourStory/fuji/desktop/video-devices-in.m4v"
                                 type="video/mp4" />
@@ -317,4 +318,4 @@
     <script src="script.js"></script>
 </body>
 
-</html
+</html>
